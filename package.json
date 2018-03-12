@@ -8,9 +8,7 @@
   "author": "",
   "license": "ISC",
   "description": "This is for how-to-npm.",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.3"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ayamahmod/how-to-npm.git"
